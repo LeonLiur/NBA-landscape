@@ -1,0 +1,3600 @@
+[
+    {
+        "name": "Giannis Antetokounmpo",
+        "team": "MIL",
+        "ppg": 32.7,
+        "rpg": 11.6,
+        "apg": 6.0
+    },
+    {
+        "name": "Shai Gilgeous-Alexander",
+        "team": "OKC",
+        "ppg": 31.0,
+        "rpg": 5.6,
+        "apg": 6.1
+    },
+    {
+        "name": "Nikola Jokic",
+        "team": "DEN",
+        "ppg": 30.8,
+        "rpg": 12.5,
+        "apg": 9.5
+    },
+    {
+        "name": "LaMelo Ball",
+        "team": "CHA",
+        "ppg": 30.1,
+        "rpg": 5.3,
+        "apg": 7.4
+    },
+    {
+        "name": "Paolo Banchero",
+        "team": "ORL",
+        "ppg": 29.0,
+        "rpg": 8.8,
+        "apg": 5.6
+    },
+    {
+        "name": "Jayson Tatum",
+        "team": "BOS",
+        "ppg": 28.5,
+        "rpg": 9.6,
+        "apg": 5.6
+    },
+    {
+        "name": "Luka Doncic",
+        "team": "DAL",
+        "ppg": 28.1,
+        "rpg": 8.3,
+        "apg": 7.8
+    },
+    {
+        "name": "Kevin Durant",
+        "team": "PHO",
+        "ppg": 27.7,
+        "rpg": 6.4,
+        "apg": 3.7
+    },
+    {
+        "name": "De'Aaron Fox",
+        "team": "SAC",
+        "ppg": 26.3,
+        "rpg": 5.0,
+        "apg": 6.3
+    },
+    {
+        "name": "Tyrese Maxey",
+        "team": "PHI",
+        "ppg": 26.0,
+        "rpg": 3.7,
+        "apg": 5.4
+    },
+    {
+        "name": "Anthony Davis",
+        "team": "LAL",
+        "ppg": 26.0,
+        "rpg": 11.5,
+        "apg": 3.5
+    },
+    {
+        "name": "Damian Lillard",
+        "team": "MIL",
+        "ppg": 25.9,
+        "rpg": 4.6,
+        "apg": 7.7
+    },
+    {
+        "name": "Victor Wembanyama",
+        "team": "SAN",
+        "ppg": 25.5,
+        "rpg": 10.0,
+        "apg": 3.8
+    },
+    {
+        "name": "Jalen Brunson",
+        "team": "NYK",
+        "ppg": 25.5,
+        "rpg": 3.0,
+        "apg": 7.7
+    },
+    {
+        "name": "Devin Booker",
+        "team": "PHO",
+        "ppg": 25.1,
+        "rpg": 3.7,
+        "apg": 6.4
+    },
+    {
+        "name": "Anthony Edwards",
+        "team": "MIN",
+        "ppg": 24.9,
+        "rpg": 5.6,
+        "apg": 4.0
+    },
+    {
+        "name": "Jaylen Brown",
+        "team": "BOS",
+        "ppg": 24.9,
+        "rpg": 5.9,
+        "apg": 4.7
+    },
+    {
+        "name": "Cam Thomas",
+        "team": "BRO",
+        "ppg": 24.7,
+        "rpg": 3.4,
+        "apg": 3.5
+    },
+    {
+        "name": "Kyrie Irving",
+        "team": "DAL",
+        "ppg": 24.6,
+        "rpg": 4.5,
+        "apg": 5.0
+    },
+    {
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "ppg": 24.5,
+        "rpg": 13.5,
+        "apg": 3.4
+    },
+    {
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "ppg": 24.4,
+        "rpg": 5.6,
+        "apg": 5.7
+    },
+    {
+        "name": "Norman Powell",
+        "team": "LAC",
+        "ppg": 24.2,
+        "rpg": 3.3,
+        "apg": 2.5
+    },
+    {
+        "name": "Cade Cunningham",
+        "team": "DET",
+        "ppg": 24.0,
+        "rpg": 6.7,
+        "apg": 9.7
+    },
+    {
+        "name": "Tyler Herro",
+        "team": "MIA",
+        "ppg": 24.0,
+        "rpg": 5.7,
+        "apg": 5.2
+    },
+    {
+        "name": "Donovan Mitchell",
+        "team": "CLE",
+        "ppg": 23.6,
+        "rpg": 4.6,
+        "apg": 4.7
+    },
+    {
+        "name": "LeBron James",
+        "team": "LAL",
+        "ppg": 23.5,
+        "rpg": 7.9,
+        "apg": 9.0
+    },
+    {
+        "name": "RJ Barrett",
+        "team": "TOR",
+        "ppg": 23.4,
+        "rpg": 6.8,
+        "apg": 6.2
+    },
+    {
+        "name": "Zion Williamson",
+        "team": "NOR",
+        "ppg": 22.7,
+        "rpg": 8.0,
+        "apg": 5.3
+    },
+    {
+        "name": "Stephen Curry",
+        "team": "GOL",
+        "ppg": 22.5,
+        "rpg": 4.8,
+        "apg": 6.5
+    },
+    {
+        "name": "Joel Embiid",
+        "team": "PHI",
+        "ppg": 22.4,
+        "rpg": 6.8,
+        "apg": 3.9
+    },
+    {
+        "name": "Brandon Ingram",
+        "team": "NOR",
+        "ppg": 22.2,
+        "rpg": 5.6,
+        "apg": 5.2
+    },
+    {
+        "name": "Trae Young",
+        "team": "ATL",
+        "ppg": 22.0,
+        "rpg": 3.6,
+        "apg": 12.1
+    },
+    {
+        "name": "Zach LaVine",
+        "team": "CHI",
+        "ppg": 22.0,
+        "rpg": 4.6,
+        "apg": 4.3
+    },
+    {
+        "name": "James Harden",
+        "team": "LAC",
+        "ppg": 21.9,
+        "rpg": 6.4,
+        "apg": 8.1
+    },
+    {
+        "name": "Jaren Jackson Jr.",
+        "team": "MEM",
+        "ppg": 21.6,
+        "rpg": 5.9,
+        "apg": 1.8
+    },
+    {
+        "name": "Brandon Miller",
+        "team": "CHA",
+        "ppg": 21.4,
+        "rpg": 5.1,
+        "apg": 3.7
+    },
+    {
+        "name": "Jordan Poole",
+        "team": "WAS",
+        "ppg": 21.3,
+        "rpg": 2.7,
+        "apg": 5.0
+    },
+    {
+        "name": "Jalen Williams",
+        "team": "OKC",
+        "ppg": 21.2,
+        "rpg": 5.9,
+        "apg": 5.2
+    },
+    {
+        "name": "Ja Morant",
+        "team": "MEM",
+        "ppg": 21.2,
+        "rpg": 4.4,
+        "apg": 7.9
+    },
+    {
+        "name": "Domantas Sabonis",
+        "team": "SAC",
+        "ppg": 20.9,
+        "rpg": 13.5,
+        "apg": 6.1
+    },
+    {
+        "name": "DeMar DeRozan",
+        "team": "SAC",
+        "ppg": 20.9,
+        "rpg": 3.9,
+        "apg": 4.0
+    },
+    {
+        "name": "CJ McCollum",
+        "team": "NOR",
+        "ppg": 20.8,
+        "rpg": 3.9,
+        "apg": 4.1
+    },
+    {
+        "name": "Nikola Vucevic",
+        "team": "CHI",
+        "ppg": 20.7,
+        "rpg": 9.9,
+        "apg": 3.3
+    },
+    {
+        "name": "Darius Garland",
+        "team": "CLE",
+        "ppg": 20.6,
+        "rpg": 2.6,
+        "apg": 6.4
+    },
+    {
+        "name": "De'Andre Hunter",
+        "team": "ATL",
+        "ppg": 20.6,
+        "rpg": 4.1,
+        "apg": 1.3
+    },
+    {
+        "name": "Trey Murphy III",
+        "team": "NOR",
+        "ppg": 20.2,
+        "rpg": 4.5,
+        "apg": 2.4
+    },
+    {
+        "name": "Julius Randle",
+        "team": "MIN",
+        "ppg": 20.2,
+        "rpg": 7.0,
+        "apg": 4.4
+    },
+    {
+        "name": "Scottie Barnes",
+        "team": "TOR",
+        "ppg": 19.9,
+        "rpg": 7.8,
+        "apg": 7.1
+    },
+    {
+        "name": "Jalen Johnson",
+        "team": "ATL",
+        "ppg": 19.9,
+        "rpg": 10.2,
+        "apg": 5.4
+    },
+    {
+        "name": "Pascal Siakam",
+        "team": "IND",
+        "ppg": 19.8,
+        "rpg": 7.2,
+        "apg": 3.4
+    },
+    {
+        "name": "Jamal Murray",
+        "team": "DEN",
+        "ppg": 19.8,
+        "rpg": 4.2,
+        "apg": 6.3
+    },
+    {
+        "name": "Lauri Markkanen",
+        "team": "UTA",
+        "ppg": 19.7,
+        "rpg": 6.5,
+        "apg": 2.0
+    },
+    {
+        "name": "Jalen Green",
+        "team": "HOU",
+        "ppg": 19.3,
+        "rpg": 4.4,
+        "apg": 2.6
+    },
+    {
+        "name": "Cameron Johnson",
+        "team": "BRO",
+        "ppg": 19.1,
+        "rpg": 4.3,
+        "apg": 3.1
+    },
+    {
+        "name": "Bradley Beal",
+        "team": "PHO",
+        "ppg": 19.0,
+        "rpg": 3.9,
+        "apg": 3.1
+    },
+    {
+        "name": "Alperen Sengun",
+        "team": "HOU",
+        "ppg": 18.9,
+        "rpg": 10.8,
+        "apg": 5.1
+    },
+    {
+        "name": "Evan Mobley",
+        "team": "CLE",
+        "ppg": 18.8,
+        "rpg": 8.9,
+        "apg": 3.0
+    },
+    {
+        "name": "Michael Porter Jr.",
+        "team": "DEN",
+        "ppg": 18.6,
+        "rpg": 6.6,
+        "apg": 2.7
+    },
+    {
+        "name": "Jimmy Butler",
+        "team": "MIA",
+        "ppg": 18.5,
+        "rpg": 5.8,
+        "apg": 4.9
+    },
+    {
+        "name": "Dennis Schroder",
+        "team": "BRO",
+        "ppg": 18.4,
+        "rpg": 3.0,
+        "apg": 6.6
+    },
+    {
+        "name": "Kristaps Porzingis",
+        "team": "BOS",
+        "ppg": 18.3,
+        "rpg": 6.4,
+        "apg": 1.6
+    },
+    {
+        "name": "Mikal Bridges",
+        "team": "NYK",
+        "ppg": 18.2,
+        "rpg": 3.3,
+        "apg": 3.3
+    },
+    {
+        "name": "Shaedon Sharpe",
+        "team": "POR",
+        "ppg": 18.1,
+        "rpg": 3.6,
+        "apg": 2.6
+    },
+    {
+        "name": "Tyrese Haliburton",
+        "team": "IND",
+        "ppg": 17.8,
+        "rpg": 3.6,
+        "apg": 8.7
+    },
+    {
+        "name": "Coby White",
+        "team": "CHI",
+        "ppg": 17.8,
+        "rpg": 3.4,
+        "apg": 4.5
+    },
+    {
+        "name": "Austin Reaves",
+        "team": "LAL",
+        "ppg": 17.7,
+        "rpg": 4.2,
+        "apg": 5.5
+    },
+    {
+        "name": "John Collins",
+        "team": "UTA",
+        "ppg": 17.7,
+        "rpg": 8.2,
+        "apg": 2.5
+    },
+    {
+        "name": "Gradey Dick",
+        "team": "TOR",
+        "ppg": 17.6,
+        "rpg": 3.5,
+        "apg": 2.1
+    },
+    {
+        "name": "Jaden Ivey",
+        "team": "DET",
+        "ppg": 17.4,
+        "rpg": 4.2,
+        "apg": 4.0
+    },
+    {
+        "name": "Collin Sexton",
+        "team": "UTA",
+        "ppg": 17.3,
+        "rpg": 2.6,
+        "apg": 3.8
+    },
+    {
+        "name": "Anfernee Simons",
+        "team": "POR",
+        "ppg": 17.2,
+        "rpg": 2.6,
+        "apg": 4.9
+    },
+    {
+        "name": "Miles Bridges",
+        "team": "CHA",
+        "ppg": 17.2,
+        "rpg": 7.4,
+        "apg": 3.3
+    },
+    {
+        "name": "Derrick White",
+        "team": "BOS",
+        "ppg": 16.9,
+        "rpg": 4.6,
+        "apg": 4.6
+    },
+    {
+        "name": "Jonathan Kuminga",
+        "team": "GOL",
+        "ppg": 16.7,
+        "rpg": 4.9,
+        "apg": 2.1
+    },
+    {
+        "name": "Malik Beasley",
+        "team": "DET",
+        "ppg": 16.7,
+        "rpg": 3.0,
+        "apg": 1.9
+    },
+    {
+        "name": "Bennedict Mathurin",
+        "team": "IND",
+        "ppg": 16.6,
+        "rpg": 6.2,
+        "apg": 1.8
+    },
+    {
+        "name": "Andrew Wiggins",
+        "team": "GOL",
+        "ppg": 16.6,
+        "rpg": 4.4,
+        "apg": 2.3
+    },
+    {
+        "name": "Jalen Suggs",
+        "team": "ORL",
+        "ppg": 16.5,
+        "rpg": 4.2,
+        "apg": 3.8
+    },
+    {
+        "name": "Chet Holmgren",
+        "team": "OKC",
+        "ppg": 16.4,
+        "rpg": 8.7,
+        "apg": 2.0
+    },
+    {
+        "name": "O.G. Anunoby",
+        "team": "NYK",
+        "ppg": 16.3,
+        "rpg": 5.0,
+        "apg": 2.0
+    },
+    {
+        "name": "Keyonte George",
+        "team": "UTA",
+        "ppg": 16.2,
+        "rpg": 3.4,
+        "apg": 5.7
+    },
+    {
+        "name": "Dejounte Murray",
+        "team": "NOR",
+        "ppg": 16.2,
+        "rpg": 6.5,
+        "apg": 7.5
+    },
+    {
+        "name": "Bam Adebayo",
+        "team": "MIA",
+        "ppg": 16.1,
+        "rpg": 9.9,
+        "apg": 4.7
+    },
+    {
+        "name": "Devin Vassell",
+        "team": "SAN",
+        "ppg": 15.8,
+        "rpg": 3.1,
+        "apg": 2.8
+    },
+    {
+        "name": "Paul George",
+        "team": "PHI",
+        "ppg": 15.8,
+        "rpg": 5.5,
+        "apg": 4.8
+    },
+    {
+        "name": "Kyle Kuzma",
+        "team": "WAS",
+        "ppg": 15.8,
+        "rpg": 5.6,
+        "apg": 1.9
+    },
+    {
+        "name": "Malik Monk",
+        "team": "SAC",
+        "ppg": 15.8,
+        "rpg": 3.6,
+        "apg": 4.8
+    },
+    {
+        "name": "Jordan Clarkson",
+        "team": "UTA",
+        "ppg": 15.8,
+        "rpg": 3.4,
+        "apg": 4.1
+    },
+    {
+        "name": "Desmond Bane",
+        "team": "MEM",
+        "ppg": 15.7,
+        "rpg": 6.0,
+        "apg": 4.8
+    },
+    {
+        "name": "Payton Pritchard",
+        "team": "BOS",
+        "ppg": 15.6,
+        "rpg": 3.8,
+        "apg": 3.4
+    },
+    {
+        "name": "Fred VanVleet",
+        "team": "HOU",
+        "ppg": 15.4,
+        "rpg": 4.6,
+        "apg": 6.0
+    },
+    {
+        "name": "Jakob Poeltl",
+        "team": "TOR",
+        "ppg": 15.4,
+        "rpg": 10.9,
+        "apg": 2.7
+    },
+    {
+        "name": "Jared McCain",
+        "team": "PHI",
+        "ppg": 15.3,
+        "rpg": 2.4,
+        "apg": 2.6
+    },
+    {
+        "name": "Immanuel Quickley",
+        "team": "TOR",
+        "ppg": 15.3,
+        "rpg": 2.0,
+        "apg": 4.0
+    },
+    {
+        "name": "Ivica Zubac",
+        "team": "LAC",
+        "ppg": 15.2,
+        "rpg": 12.5,
+        "apg": 2.5
+    },
+    {
+        "name": "Jerami Grant",
+        "team": "POR",
+        "ppg": 15.0,
+        "rpg": 3.6,
+        "apg": 2.3
+    },
+    {
+        "name": "Myles Turner",
+        "team": "IND",
+        "ppg": 14.9,
+        "rpg": 7.1,
+        "apg": 1.6
+    },
+    {
+        "name": "Deandre Ayton",
+        "team": "POR",
+        "ppg": 14.8,
+        "rpg": 10.4,
+        "apg": 1.4
+    },
+    {
+        "name": "Jeremy Sochan",
+        "team": "SAN",
+        "ppg": 14.4,
+        "rpg": 8.4,
+        "apg": 2.8
+    },
+    {
+        "name": "Malcolm Brogdon",
+        "team": "WAS",
+        "ppg": 14.2,
+        "rpg": 4.1,
+        "apg": 3.6
+    },
+    {
+        "name": "Josh Hart",
+        "team": "NYK",
+        "ppg": 14.2,
+        "rpg": 8.4,
+        "apg": 5.4
+    },
+    {
+        "name": "Tre Mann",
+        "team": "CHA",
+        "ppg": 14.1,
+        "rpg": 2.9,
+        "apg": 3.0
+    },
+    {
+        "name": "Bobby Portis",
+        "team": "MIL",
+        "ppg": 14.1,
+        "rpg": 7.8,
+        "apg": 2.2
+    },
+    {
+        "name": "Klay Thompson",
+        "team": "DAL",
+        "ppg": 14.1,
+        "rpg": 3.4,
+        "apg": 1.9
+    },
+    {
+        "name": "Christian Braun",
+        "team": "DEN",
+        "ppg": 13.9,
+        "rpg": 4.9,
+        "apg": 2.0
+    },
+    {
+        "name": "Dillon Brooks",
+        "team": "HOU",
+        "ppg": 13.9,
+        "rpg": 3.9,
+        "apg": 1.6
+    },
+    {
+        "name": "Khris Middleton",
+        "team": "MIL",
+        "ppg": 13.7,
+        "rpg": 4.1,
+        "apg": 5.3
+    },
+    {
+        "name": "Aaron Gordon",
+        "team": "DEN",
+        "ppg": 13.7,
+        "rpg": 5.8,
+        "apg": 3.1
+    },
+    {
+        "name": "Bilal Coulibaly",
+        "team": "WAS",
+        "ppg": 13.6,
+        "rpg": 5.7,
+        "apg": 3.6
+    },
+    {
+        "name": "Deni Avdija",
+        "team": "POR",
+        "ppg": 13.3,
+        "rpg": 5.8,
+        "apg": 3.2
+    },
+    {
+        "name": "Jarrett Allen",
+        "team": "CLE",
+        "ppg": 13.3,
+        "rpg": 10.0,
+        "apg": 1.9
+    },
+    {
+        "name": "Dyson Daniels",
+        "team": "ATL",
+        "ppg": 13.0,
+        "rpg": 5.1,
+        "apg": 3.5
+    },
+    {
+        "name": "Santi Aldama",
+        "team": "MEM",
+        "ppg": 13.0,
+        "rpg": 7.3,
+        "apg": 3.0
+    },
+    {
+        "name": "Moritz Wagner",
+        "team": "ORL",
+        "ppg": 12.9,
+        "rpg": 4.9,
+        "apg": 1.4
+    },
+    {
+        "name": "Buddy Hield",
+        "team": "GOL",
+        "ppg": 12.9,
+        "rpg": 3.4,
+        "apg": 1.3
+    },
+    {
+        "name": "Kelly Oubre Jr.",
+        "team": "PHI",
+        "ppg": 12.7,
+        "rpg": 5.7,
+        "apg": 1.5
+    },
+    {
+        "name": "Tobias Harris",
+        "team": "DET",
+        "ppg": 12.7,
+        "rpg": 6.3,
+        "apg": 2.4
+    },
+    {
+        "name": "Ayo Dosunmu",
+        "team": "CHI",
+        "ppg": 12.6,
+        "rpg": 3.9,
+        "apg": 4.8
+    },
+    {
+        "name": "Rui Hachimura",
+        "team": "LAL",
+        "ppg": 12.5,
+        "rpg": 5.4,
+        "apg": 1.6
+    },
+    {
+        "name": "Isaiah Hartenstein",
+        "team": "OKC",
+        "ppg": 12.4,
+        "rpg": 12.6,
+        "apg": 3.8
+    },
+    {
+        "name": "D'Angelo Russell",
+        "team": "LAL",
+        "ppg": 12.4,
+        "rpg": 2.8,
+        "apg": 4.7
+    },
+    {
+        "name": "Jordan Hawkins",
+        "team": "NOR",
+        "ppg": 12.3,
+        "rpg": 3.0,
+        "apg": 1.1
+    },
+    {
+        "name": "Josh Giddey",
+        "team": "CHI",
+        "ppg": 12.3,
+        "rpg": 6.7,
+        "apg": 7.0
+    },
+    {
+        "name": "Tyus Jones",
+        "team": "PHO",
+        "ppg": 12.3,
+        "rpg": 2.6,
+        "apg": 6.4
+    },
+    {
+        "name": "Brook Lopez",
+        "team": "MIL",
+        "ppg": 12.3,
+        "rpg": 4.9,
+        "apg": 1.6
+    },
+    {
+        "name": "Julian Champagnie",
+        "team": "SAN",
+        "ppg": 12.2,
+        "rpg": 4.8,
+        "apg": 1.4
+    },
+    {
+        "name": "Naz Reid",
+        "team": "MIN",
+        "ppg": 12.2,
+        "rpg": 4.8,
+        "apg": 1.7
+    },
+    {
+        "name": "Daniel Gafford",
+        "team": "DAL",
+        "ppg": 12.2,
+        "rpg": 6.2,
+        "apg": 1.2
+    },
+    {
+        "name": "P.J. Washington",
+        "team": "DAL",
+        "ppg": 12.2,
+        "rpg": 7.7,
+        "apg": 2.2
+    },
+    {
+        "name": "Jrue Holiday",
+        "team": "BOS",
+        "ppg": 12.2,
+        "rpg": 4.3,
+        "apg": 3.7
+    },
+    {
+        "name": "Bruce Brown",
+        "team": "TOR",
+        "ppg": 12.0,
+        "rpg": 3.0,
+        "apg": 1.0
+    },
+    {
+        "name": "Keldon Johnson",
+        "team": "SAN",
+        "ppg": 12.0,
+        "rpg": 5.0,
+        "apg": 1.6
+    },
+    {
+        "name": "Caris LeVert",
+        "team": "CLE",
+        "ppg": 12.0,
+        "rpg": 2.8,
+        "apg": 4.0
+    },
+    {
+        "name": "Terry Rozier",
+        "team": "MIA",
+        "ppg": 12.0,
+        "rpg": 4.0,
+        "apg": 2.7
+    },
+    {
+        "name": "Russell Westbrook",
+        "team": "DEN",
+        "ppg": 12.0,
+        "rpg": 4.3,
+        "apg": 6.4
+    },
+    {
+        "name": "Amen Thompson",
+        "team": "HOU",
+        "ppg": 11.9,
+        "rpg": 7.1,
+        "apg": 2.2
+    },
+    {
+        "name": "Keegan Murray",
+        "team": "SAC",
+        "ppg": 11.9,
+        "rpg": 7.4,
+        "apg": 1.4
+    },
+    {
+        "name": "Jabari Smith Jr.",
+        "team": "HOU",
+        "ppg": 11.9,
+        "rpg": 6.7,
+        "apg": 1.0
+    },
+    {
+        "name": "Brandon Boston Jr.",
+        "team": "NOR",
+        "ppg": 11.8,
+        "rpg": 3.4,
+        "apg": 2.8
+    },
+    {
+        "name": "Scoot Henderson",
+        "team": "POR",
+        "ppg": 11.5,
+        "rpg": 2.9,
+        "apg": 5.0
+    },
+    {
+        "name": "Onyeka Okongwu",
+        "team": "ATL",
+        "ppg": 11.5,
+        "rpg": 6.5,
+        "apg": 1.3
+    },
+    {
+        "name": "Jonas Valanciunas",
+        "team": "WAS",
+        "ppg": 11.5,
+        "rpg": 8.0,
+        "apg": 2.3
+    },
+    {
+        "name": "Alexandre Sarr",
+        "team": "WAS",
+        "ppg": 11.4,
+        "rpg": 6.2,
+        "apg": 2.2
+    },
+    {
+        "name": "Jaylen Wells",
+        "team": "MEM",
+        "ppg": 11.3,
+        "rpg": 3.1,
+        "apg": 1.7
+    },
+    {
+        "name": "Zach Edey",
+        "team": "MEM",
+        "ppg": 11.3,
+        "rpg": 8.0,
+        "apg": 1.1
+    },
+    {
+        "name": "Tari Eason",
+        "team": "HOU",
+        "ppg": 11.3,
+        "rpg": 6.3,
+        "apg": 1.0
+    },
+    {
+        "name": "Ochai Agbaji",
+        "team": "TOR",
+        "ppg": 11.3,
+        "rpg": 4.0,
+        "apg": 1.9
+    },
+    {
+        "name": "Bogdan Bogdanovic",
+        "team": "ATL",
+        "ppg": 11.3,
+        "rpg": 3.1,
+        "apg": 2.2
+    },
+    {
+        "name": "Corey Kispert",
+        "team": "WAS",
+        "ppg": 11.2,
+        "rpg": 3.3,
+        "apg": 1.6
+    },
+    {
+        "name": "Justin Champagnie",
+        "team": "WAS",
+        "ppg": 11.2,
+        "rpg": 6.9,
+        "apg": 1.2
+    },
+    {
+        "name": "Mark Williams",
+        "team": "CHA",
+        "ppg": 11.1,
+        "rpg": 6.7,
+        "apg": 2.1
+    },
+    {
+        "name": "Duncan Robinson",
+        "team": "MIA",
+        "ppg": 11.1,
+        "rpg": 2.4,
+        "apg": 2.5
+    },
+    {
+        "name": "T.J. McConnell",
+        "team": "IND",
+        "ppg": 11.0,
+        "rpg": 2.6,
+        "apg": 4.3
+    },
+    {
+        "name": "Stephon Castle",
+        "team": "SAN",
+        "ppg": 10.9,
+        "rpg": 2.5,
+        "apg": 3.6
+    },
+    {
+        "name": "Naji Marshall",
+        "team": "DAL",
+        "ppg": 10.9,
+        "rpg": 3.3,
+        "apg": 2.2
+    },
+    {
+        "name": "Andrew Nembhard",
+        "team": "IND",
+        "ppg": 10.9,
+        "rpg": 3.1,
+        "apg": 4.9
+    },
+    {
+        "name": "Zaccharie Risacher",
+        "team": "ATL",
+        "ppg": 10.8,
+        "rpg": 3.4,
+        "apg": 1.2
+    },
+    {
+        "name": "Scotty Pippen Jr.",
+        "team": "MEM",
+        "ppg": 10.8,
+        "rpg": 3.5,
+        "apg": 5.1
+    },
+    {
+        "name": "Jose Alvarado",
+        "team": "NOR",
+        "ppg": 10.7,
+        "rpg": 2.2,
+        "apg": 4.5
+    },
+    {
+        "name": "Harrison Barnes",
+        "team": "SAN",
+        "ppg": 10.7,
+        "rpg": 3.8,
+        "apg": 1.5
+    },
+    {
+        "name": "Herbert Jones",
+        "team": "NOR",
+        "ppg": 10.6,
+        "rpg": 4.2,
+        "apg": 3.1
+    },
+    {
+        "name": "Obi Toppin",
+        "team": "IND",
+        "ppg": 10.5,
+        "rpg": 4.1,
+        "apg": 1.7
+    },
+    {
+        "name": "Royce O'Neale",
+        "team": "PHO",
+        "ppg": 10.5,
+        "rpg": 5.6,
+        "apg": 2.4
+    },
+    {
+        "name": "Rudy Gobert",
+        "team": "MIN",
+        "ppg": 10.5,
+        "rpg": 10.7,
+        "apg": 1.7
+    },
+    {
+        "name": "Grant Williams",
+        "team": "CHA",
+        "ppg": 10.4,
+        "rpg": 5.1,
+        "apg": 2.3
+    },
+    {
+        "name": "Grayson Allen",
+        "team": "PHO",
+        "ppg": 10.4,
+        "rpg": 3.2,
+        "apg": 1.8
+    },
+    {
+        "name": "Dorian Finney-Smith",
+        "team": "BRO",
+        "ppg": 10.4,
+        "rpg": 4.6,
+        "apg": 1.6
+    },
+    {
+        "name": "Walker Kessler",
+        "team": "UTA",
+        "ppg": 10.3,
+        "rpg": 10.9,
+        "apg": 1.5
+    },
+    {
+        "name": "Ty Jerome",
+        "team": "CLE",
+        "ppg": 10.3,
+        "rpg": 2.0,
+        "apg": 3.5
+    },
+    {
+        "name": "Chris Boucher",
+        "team": "TOR",
+        "ppg": 10.3,
+        "rpg": 4.4,
+        "apg": 0.7
+    },
+    {
+        "name": "Dalton Knecht",
+        "team": "LAL",
+        "ppg": 10.2,
+        "rpg": 3.5,
+        "apg": 1.1
+    },
+    {
+        "name": "De'Anthony Melton",
+        "team": "GOL",
+        "ppg": 10.2,
+        "rpg": 3.3,
+        "apg": 2.8
+    },
+    {
+        "name": "Patrick Williams",
+        "team": "CHI",
+        "ppg": 10.0,
+        "rpg": 4.4,
+        "apg": 2.2
+    },
+    {
+        "name": "Kevin Porter Jr.",
+        "team": "LAC",
+        "ppg": 10.0,
+        "rpg": 3.7,
+        "apg": 3.0
+    },
+    {
+        "name": "Amir Coffey",
+        "team": "LAC",
+        "ppg": 10.0,
+        "rpg": 2.6,
+        "apg": 1.2
+    },
+    {
+        "name": "Derrick Jones Jr.",
+        "team": "LAC",
+        "ppg": 10.0,
+        "rpg": 3.3,
+        "apg": 0.9
+    },
+    {
+        "name": "Tim Hardaway Jr.",
+        "team": "DET",
+        "ppg": 10.0,
+        "rpg": 2.0,
+        "apg": 1.6
+    },
+    {
+        "name": "Goga Bitadze",
+        "team": "ORL",
+        "ppg": 9.9,
+        "rpg": 8.5,
+        "apg": 2.1
+    },
+    {
+        "name": "Donte DiVincenzo",
+        "team": "MIN",
+        "ppg": 9.9,
+        "rpg": 3.4,
+        "apg": 3.4
+    },
+    {
+        "name": "Miles McBride",
+        "team": "NYK",
+        "ppg": 9.8,
+        "rpg": 2.7,
+        "apg": 2.9
+    },
+    {
+        "name": "Nick Richards",
+        "team": "CHA",
+        "ppg": 9.8,
+        "rpg": 8.2,
+        "apg": 1.3
+    },
+    {
+        "name": "Jaden McDaniels",
+        "team": "MIN",
+        "ppg": 9.7,
+        "rpg": 4.5,
+        "apg": 1.7
+    },
+    {
+        "name": "Luguentz Dort",
+        "team": "OKC",
+        "ppg": 9.6,
+        "rpg": 4.6,
+        "apg": 1.6
+    },
+    {
+        "name": "Kevin Huerter",
+        "team": "SAC",
+        "ppg": 9.6,
+        "rpg": 3.5,
+        "apg": 2.0
+    },
+    {
+        "name": "Guerschon Yabusele",
+        "team": "PHI",
+        "ppg": 9.6,
+        "rpg": 5.2,
+        "apg": 1.8
+    },
+    {
+        "name": "Clint Capela",
+        "team": "ATL",
+        "ppg": 9.6,
+        "rpg": 9.2,
+        "apg": 1.3
+    },
+    {
+        "name": "Dalano Banton",
+        "team": "POR",
+        "ppg": 9.5,
+        "rpg": 2.2,
+        "apg": 2.6
+    },
+    {
+        "name": "Larry Nance Jr.",
+        "team": "ATL",
+        "ppg": 9.5,
+        "rpg": 4.3,
+        "apg": 1.6
+    },
+    {
+        "name": "Chris Paul",
+        "team": "SAN",
+        "ppg": 9.5,
+        "rpg": 4.1,
+        "apg": 8.4
+    },
+    {
+        "name": "Nic Claxton",
+        "team": "BRO",
+        "ppg": 9.4,
+        "rpg": 7.4,
+        "apg": 2.0
+    },
+    {
+        "name": "Nickeil Alexander-Walker",
+        "team": "MIN",
+        "ppg": 9.4,
+        "rpg": 2.7,
+        "apg": 2.5
+    },
+    {
+        "name": "Gary Trent Jr.",
+        "team": "MIL",
+        "ppg": 9.4,
+        "rpg": 2.2,
+        "apg": 0.9
+    },
+    {
+        "name": "Yves Missi",
+        "team": "NOR",
+        "ppg": 9.3,
+        "rpg": 8.5,
+        "apg": 1.3
+    },
+    {
+        "name": "Jalen Duren",
+        "team": "DET",
+        "ppg": 9.3,
+        "rpg": 9.1,
+        "apg": 2.3
+    },
+    {
+        "name": "Jay Huff",
+        "team": "MEM",
+        "ppg": 9.3,
+        "rpg": 2.7,
+        "apg": 0.8
+    },
+    {
+        "name": "Quentin Grimes",
+        "team": "DAL",
+        "ppg": 9.3,
+        "rpg": 3.9,
+        "apg": 1.6
+    },
+    {
+        "name": "Caleb Martin",
+        "team": "PHI",
+        "ppg": 9.3,
+        "rpg": 4.5,
+        "apg": 2.1
+    },
+    {
+        "name": "Aaron Nesmith",
+        "team": "IND",
+        "ppg": 9.2,
+        "rpg": 4.0,
+        "apg": 1.0
+    },
+    {
+        "name": "Marcus Smart",
+        "team": "MEM",
+        "ppg": 9.2,
+        "rpg": 2.3,
+        "apg": 3.8
+    },
+    {
+        "name": "Carlton Carrington",
+        "team": "WAS",
+        "ppg": 9.1,
+        "rpg": 4.3,
+        "apg": 3.8
+    },
+    {
+        "name": "Julian Strawther",
+        "team": "DEN",
+        "ppg": 9.1,
+        "rpg": 2.1,
+        "apg": 1.3
+    },
+    {
+        "name": "Jalen Wilson",
+        "team": "BRO",
+        "ppg": 9.1,
+        "rpg": 3.4,
+        "apg": 1.9
+    },
+    {
+        "name": "Al Horford",
+        "team": "BOS",
+        "ppg": 9.1,
+        "rpg": 5.3,
+        "apg": 2.2
+    },
+    {
+        "name": "Trentyn Flowers",
+        "team": "LAC",
+        "ppg": 9.0,
+        "rpg": 4.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Noah Clowney",
+        "team": "BRO",
+        "ppg": 8.9,
+        "rpg": 3.7,
+        "apg": 0.7
+    },
+    {
+        "name": "Aaron Wiggins",
+        "team": "OKC",
+        "ppg": 8.9,
+        "rpg": 3.2,
+        "apg": 1.3
+    },
+    {
+        "name": "Garrison Mathews",
+        "team": "ATL",
+        "ppg": 8.9,
+        "rpg": 1.3,
+        "apg": 1.5
+    },
+    {
+        "name": "Tristan da Silva",
+        "team": "ORL",
+        "ppg": 8.8,
+        "rpg": 3.6,
+        "apg": 1.7
+    },
+    {
+        "name": "Jusuf Nurkic",
+        "team": "PHO",
+        "ppg": 8.8,
+        "rpg": 9.5,
+        "apg": 1.9
+    },
+    {
+        "name": "Dennis Schroder",
+        "team": "GOL",
+        "ppg": 8.7,
+        "rpg": 1.7,
+        "apg": 4.0
+    },
+    {
+        "name": "Toumani Camara",
+        "team": "POR",
+        "ppg": 8.7,
+        "rpg": 5.6,
+        "apg": 1.9
+    },
+    {
+        "name": "Dereck Lively II",
+        "team": "DAL",
+        "ppg": 8.7,
+        "rpg": 7.8,
+        "apg": 2.5
+    },
+    {
+        "name": "Peyton Watson",
+        "team": "DEN",
+        "ppg": 8.7,
+        "rpg": 3.3,
+        "apg": 1.4
+    },
+    {
+        "name": "Kentavious Caldwell-Pope",
+        "team": "ORL",
+        "ppg": 8.7,
+        "rpg": 2.0,
+        "apg": 2.0
+    },
+    {
+        "name": "Draymond Green",
+        "team": "GOL",
+        "ppg": 8.7,
+        "rpg": 6.2,
+        "apg": 5.7
+    },
+    {
+        "name": "Svi Mykhailiuk",
+        "team": "UTA",
+        "ppg": 8.6,
+        "rpg": 1.6,
+        "apg": 1.4
+    },
+    {
+        "name": "Ja'Kobe Walter",
+        "team": "TOR",
+        "ppg": 8.6,
+        "rpg": 2.8,
+        "apg": 1.5
+    },
+    {
+        "name": "Jaime Jaquez Jr.",
+        "team": "MIA",
+        "ppg": 8.6,
+        "rpg": 4.7,
+        "apg": 2.1
+    },
+    {
+        "name": "Nikola Jovic",
+        "team": "MIA",
+        "ppg": 8.6,
+        "rpg": 3.6,
+        "apg": 1.7
+    },
+    {
+        "name": "Ziaire Williams",
+        "team": "BRO",
+        "ppg": 8.6,
+        "rpg": 4.4,
+        "apg": 1.1
+    },
+    {
+        "name": "Georges Niang",
+        "team": "CLE",
+        "ppg": 8.6,
+        "rpg": 4.0,
+        "apg": 1.4
+    },
+    {
+        "name": "Spencer Dinwiddie",
+        "team": "DAL",
+        "ppg": 8.6,
+        "rpg": 2.1,
+        "apg": 3.3
+    },
+    {
+        "name": "Anthony Black",
+        "team": "ORL",
+        "ppg": 8.5,
+        "rpg": 2.7,
+        "apg": 3.5
+    },
+    {
+        "name": "Cody Martin",
+        "team": "CHA",
+        "ppg": 8.5,
+        "rpg": 4.7,
+        "apg": 2.3
+    },
+    {
+        "name": "Jaylen Nowell",
+        "team": "NOR",
+        "ppg": 8.4,
+        "rpg": 2.5,
+        "apg": 2.3
+    },
+    {
+        "name": "Cam Whitmore",
+        "team": "HOU",
+        "ppg": 8.4,
+        "rpg": 2.4,
+        "apg": 0.5
+    },
+    {
+        "name": "Trayce Jackson-Davis",
+        "team": "GOL",
+        "ppg": 8.4,
+        "rpg": 5.5,
+        "apg": 2.1
+    },
+    {
+        "name": "Trendon Watford",
+        "team": "BRO",
+        "ppg": 8.3,
+        "rpg": 2.8,
+        "apg": 1.2
+    },
+    {
+        "name": "Isaiah Joe",
+        "team": "OKC",
+        "ppg": 8.3,
+        "rpg": 2.7,
+        "apg": 1.4
+    },
+    {
+        "name": "Bones Hyland",
+        "team": "LAC",
+        "ppg": 8.2,
+        "rpg": 1.1,
+        "apg": 1.2
+    },
+    {
+        "name": "Jake LaRavia",
+        "team": "MEM",
+        "ppg": 8.2,
+        "rpg": 4.5,
+        "apg": 3.2
+    },
+    {
+        "name": "Brice Sensabaugh",
+        "team": "UTA",
+        "ppg": 8.1,
+        "rpg": 2.5,
+        "apg": 1.3
+    },
+    {
+        "name": "Mike Conley",
+        "team": "MIN",
+        "ppg": 8.1,
+        "rpg": 2.8,
+        "apg": 4.4
+    },
+    {
+        "name": "Brandin Podziemski",
+        "team": "GOL",
+        "ppg": 8.0,
+        "rpg": 4.5,
+        "apg": 3.2
+    },
+    {
+        "name": "Luke Kennard",
+        "team": "MEM",
+        "ppg": 7.9,
+        "rpg": 2.4,
+        "apg": 2.9
+    },
+    {
+        "name": "Jalen Smith",
+        "team": "CHI",
+        "ppg": 7.9,
+        "rpg": 5.5,
+        "apg": 0.8
+    },
+    {
+        "name": "Sam Hauser",
+        "team": "BOS",
+        "ppg": 7.8,
+        "rpg": 3.2,
+        "apg": 1.2
+    },
+    {
+        "name": "Vasilije Micic",
+        "team": "CHA",
+        "ppg": 7.8,
+        "rpg": 2.5,
+        "apg": 3.6
+    },
+    {
+        "name": "DaQuan Jeffries",
+        "team": "CHA",
+        "ppg": 7.7,
+        "rpg": 2.9,
+        "apg": 0.7
+    },
+    {
+        "name": "A.J. Green",
+        "team": "MIL",
+        "ppg": 7.7,
+        "rpg": 2.3,
+        "apg": 1.3
+    },
+    {
+        "name": "Kelly Olynyk",
+        "team": "TOR",
+        "ppg": 7.6,
+        "rpg": 4.9,
+        "apg": 2.6
+    },
+    {
+        "name": "Ausar Thompson",
+        "team": "DET",
+        "ppg": 7.6,
+        "rpg": 4.2,
+        "apg": 1.8
+    },
+    {
+        "name": "Robert Williams III",
+        "team": "POR",
+        "ppg": 7.5,
+        "rpg": 5.3,
+        "apg": 1.2
+    },
+    {
+        "name": "Taurean Prince",
+        "team": "MIL",
+        "ppg": 7.5,
+        "rpg": 4.0,
+        "apg": 1.7
+    },
+    {
+        "name": "Tyrese Martin",
+        "team": "BRO",
+        "ppg": 7.4,
+        "rpg": 3.3,
+        "apg": 1.3
+    },
+    {
+        "name": "Kyshawn George",
+        "team": "WAS",
+        "ppg": 7.4,
+        "rpg": 4.0,
+        "apg": 2.4
+    },
+    {
+        "name": "Moses Moody",
+        "team": "GOL",
+        "ppg": 7.4,
+        "rpg": 1.8,
+        "apg": 0.8
+    },
+    {
+        "name": "Sam Merrill",
+        "team": "CLE",
+        "ppg": 7.4,
+        "rpg": 1.9,
+        "apg": 1.7
+    },
+    {
+        "name": "Shake Milton",
+        "team": "BRO",
+        "ppg": 7.4,
+        "rpg": 1.9,
+        "apg": 2.4
+    },
+    {
+        "name": "Brandon Clarke",
+        "team": "MEM",
+        "ppg": 7.3,
+        "rpg": 5.1,
+        "apg": 1.0
+    },
+    {
+        "name": "Wendell Carter Jr.",
+        "team": "ORL",
+        "ppg": 7.3,
+        "rpg": 7.1,
+        "apg": 2.2
+    },
+    {
+        "name": "Max Christie",
+        "team": "LAL",
+        "ppg": 7.2,
+        "rpg": 2.3,
+        "apg": 1.2
+    },
+    {
+        "name": "Keon Johnson",
+        "team": "BRO",
+        "ppg": 7.2,
+        "rpg": 3.1,
+        "apg": 1.2
+    },
+    {
+        "name": "Josh Green",
+        "team": "CHA",
+        "ppg": 7.2,
+        "rpg": 2.6,
+        "apg": 1.6
+    },
+    {
+        "name": "Cameron Payne",
+        "team": "NYK",
+        "ppg": 7.2,
+        "rpg": 1.6,
+        "apg": 2.7
+    },
+    {
+        "name": "Haywood Highsmith",
+        "team": "MIA",
+        "ppg": 7.1,
+        "rpg": 3.3,
+        "apg": 1.0
+    },
+    {
+        "name": "Isaiah Jackson",
+        "team": "IND",
+        "ppg": 7.0,
+        "rpg": 5.6,
+        "apg": 1.0
+    },
+    {
+        "name": "Kris Dunn",
+        "team": "LAC",
+        "ppg": 7.0,
+        "rpg": 3.6,
+        "apg": 2.7
+    },
+    {
+        "name": "Andre Drummond",
+        "team": "PHI",
+        "ppg": 6.9,
+        "rpg": 8.0,
+        "apg": 0.5
+    },
+    {
+        "name": "Jeremiah Robinson-Earl",
+        "team": "NOR",
+        "ppg": 6.8,
+        "rpg": 4.8,
+        "apg": 1.2
+    },
+    {
+        "name": "Elfrid Payton",
+        "team": "NOR",
+        "ppg": 6.7,
+        "rpg": 3.4,
+        "apg": 6.9
+    },
+    {
+        "name": "Johnny Juzang",
+        "team": "UTA",
+        "ppg": 6.7,
+        "rpg": 2.3,
+        "apg": 1.0
+    },
+    {
+        "name": "Isaiah Wong",
+        "team": "CHA",
+        "ppg": 6.6,
+        "rpg": 2.1,
+        "apg": 1.9
+    },
+    {
+        "name": "Josh Okogie",
+        "team": "PHO",
+        "ppg": 6.6,
+        "rpg": 3.2,
+        "apg": 0.5
+    },
+    {
+        "name": "Davion Mitchell",
+        "team": "TOR",
+        "ppg": 6.6,
+        "rpg": 2.1,
+        "apg": 5.0
+    },
+    {
+        "name": "Isaac Okoro",
+        "team": "CLE",
+        "ppg": 6.6,
+        "rpg": 2.3,
+        "apg": 1.7
+    },
+    {
+        "name": "Alec Burks",
+        "team": "MIA",
+        "ppg": 6.6,
+        "rpg": 2.1,
+        "apg": 1.1
+    },
+    {
+        "name": "Day'Ron Sharpe",
+        "team": "BRO",
+        "ppg": 6.5,
+        "rpg": 5.4,
+        "apg": 0.8
+    },
+    {
+        "name": "Kenrich Williams",
+        "team": "OKC",
+        "ppg": 6.5,
+        "rpg": 3.3,
+        "apg": 1.1
+    },
+    {
+        "name": "Cason Wallace",
+        "team": "OKC",
+        "ppg": 6.5,
+        "rpg": 3.4,
+        "apg": 2.2
+    },
+    {
+        "name": "Jaden Hardy",
+        "team": "DAL",
+        "ppg": 6.5,
+        "rpg": 1.4,
+        "apg": 1.2
+    },
+    {
+        "name": "Ajay Mitchell",
+        "team": "OKC",
+        "ppg": 6.4,
+        "rpg": 2.0,
+        "apg": 1.7
+    },
+    {
+        "name": "Simone Fontecchio",
+        "team": "DET",
+        "ppg": 6.4,
+        "rpg": 2.8,
+        "apg": 0.9
+    },
+    {
+        "name": "Keon Ellis",
+        "team": "SAC",
+        "ppg": 6.4,
+        "rpg": 2.2,
+        "apg": 1.1
+    },
+    {
+        "name": "KJ Martin",
+        "team": "PHI",
+        "ppg": 6.4,
+        "rpg": 3.0,
+        "apg": 0.8
+    },
+    {
+        "name": "Talen Horton-Tucker",
+        "team": "CHI",
+        "ppg": 6.4,
+        "rpg": 1.9,
+        "apg": 1.5
+    },
+    {
+        "name": "Jaxson Hayes",
+        "team": "LAL",
+        "ppg": 6.4,
+        "rpg": 4.5,
+        "apg": 0.8
+    },
+    {
+        "name": "Ronald Holland II",
+        "team": "DET",
+        "ppg": 6.3,
+        "rpg": 3.0,
+        "apg": 0.7
+    },
+    {
+        "name": "Dru Smith",
+        "team": "MIA",
+        "ppg": 6.3,
+        "rpg": 2.6,
+        "apg": 1.6
+    },
+    {
+        "name": "Terance Mann",
+        "team": "LAC",
+        "ppg": 6.3,
+        "rpg": 3.1,
+        "apg": 1.7
+    },
+    {
+        "name": "Ryan Dunn",
+        "team": "PHO",
+        "ppg": 6.2,
+        "rpg": 2.7,
+        "apg": 0.8
+    },
+    {
+        "name": "Jarace Walker",
+        "team": "IND",
+        "ppg": 6.2,
+        "rpg": 3.4,
+        "apg": 1.5
+    },
+    {
+        "name": "Cole Anthony",
+        "team": "ORL",
+        "ppg": 6.2,
+        "rpg": 2.2,
+        "apg": 2.3
+    },
+    {
+        "name": "Jamison Battle",
+        "team": "TOR",
+        "ppg": 6.1,
+        "rpg": 1.9,
+        "apg": 1.0
+    },
+    {
+        "name": "Kyle Filipowski",
+        "team": "UTA",
+        "ppg": 6.1,
+        "rpg": 4.4,
+        "apg": 1.8
+    },
+    {
+        "name": "Marcus Sasser",
+        "team": "DET",
+        "ppg": 6.1,
+        "rpg": 1.0,
+        "apg": 1.8
+    },
+    {
+        "name": "Trey Lyles",
+        "team": "SAC",
+        "ppg": 6.1,
+        "rpg": 4.1,
+        "apg": 0.8
+    },
+    {
+        "name": "Quenton Jackson",
+        "team": "IND",
+        "ppg": 6.0,
+        "rpg": 1.6,
+        "apg": 1.8
+    },
+    {
+        "name": "James Wiseman",
+        "team": "IND",
+        "ppg": 6.0,
+        "rpg": 1.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Javonte Green",
+        "team": "NOR",
+        "ppg": 6.0,
+        "rpg": 3.2,
+        "apg": 0.7
+    },
+    {
+        "name": "Dean Wade",
+        "team": "CLE",
+        "ppg": 6.0,
+        "rpg": 4.7,
+        "apg": 1.5
+    },
+    {
+        "name": "Ben Simmons",
+        "team": "BRO",
+        "ppg": 6.0,
+        "rpg": 5.4,
+        "apg": 6.9
+    },
+    {
+        "name": "Kevin Love",
+        "team": "MIA",
+        "ppg": 5.9,
+        "rpg": 4.5,
+        "apg": 1.2
+    },
+    {
+        "name": "Jordan Miller",
+        "team": "LAC",
+        "ppg": 5.9,
+        "rpg": 1.8,
+        "apg": 1.1
+    },
+    {
+        "name": "Isaiah Stewart",
+        "team": "DET",
+        "ppg": 5.9,
+        "rpg": 5.9,
+        "apg": 1.8
+    },
+    {
+        "name": "JT Thor",
+        "team": "CLE",
+        "ppg": 5.8,
+        "rpg": 0.8,
+        "apg": 0.0
+    },
+    {
+        "name": "Malaki Branham",
+        "team": "SAN",
+        "ppg": 5.8,
+        "rpg": 1.4,
+        "apg": 1.2
+    },
+    {
+        "name": "Jared Butler",
+        "team": "WAS",
+        "ppg": 5.8,
+        "rpg": 1.0,
+        "apg": 2.5
+    },
+    {
+        "name": "Jonathan Isaac",
+        "team": "ORL",
+        "ppg": 5.8,
+        "rpg": 4.7,
+        "apg": 0.4
+    },
+    {
+        "name": "Donovan Clingan",
+        "team": "POR",
+        "ppg": 5.7,
+        "rpg": 6.3,
+        "apg": 0.5
+    },
+    {
+        "name": "Ben Sheppard",
+        "team": "IND",
+        "ppg": 5.6,
+        "rpg": 2.3,
+        "apg": 1.1
+    },
+    {
+        "name": "Zach Collins",
+        "team": "SAN",
+        "ppg": 5.6,
+        "rpg": 3.2,
+        "apg": 1.7
+    },
+    {
+        "name": "Torrey Craig",
+        "team": "CHI",
+        "ppg": 5.5,
+        "rpg": 2.5,
+        "apg": 0.4
+    },
+    {
+        "name": "Ricky Council IV",
+        "team": "PHI",
+        "ppg": 5.5,
+        "rpg": 2.0,
+        "apg": 0.7
+    },
+    {
+        "name": "Lindy Waters III",
+        "team": "GOL",
+        "ppg": 5.5,
+        "rpg": 2.6,
+        "apg": 1.3
+    },
+    {
+        "name": "Trevelin Queen",
+        "team": "ORL",
+        "ppg": 5.5,
+        "rpg": 1.0,
+        "apg": 1.3
+    },
+    {
+        "name": "Lonzo Ball",
+        "team": "CHI",
+        "ppg": 5.5,
+        "rpg": 3.1,
+        "apg": 3.5
+    },
+    {
+        "name": "Alex Caruso",
+        "team": "OKC",
+        "ppg": 5.5,
+        "rpg": 2.9,
+        "apg": 2.5
+    },
+    {
+        "name": "Jonathan Mogbo",
+        "team": "TOR",
+        "ppg": 5.4,
+        "rpg": 4.6,
+        "apg": 1.7
+    },
+    {
+        "name": "Pelle Larsson",
+        "team": "MIA",
+        "ppg": 5.4,
+        "rpg": 1.8,
+        "apg": 1.4
+    },
+    {
+        "name": "Max Strus",
+        "team": "CLE",
+        "ppg": 5.3,
+        "rpg": 3.7,
+        "apg": 1.7
+    },
+    {
+        "name": "Thomas Bryant",
+        "team": "IND",
+        "ppg": 5.3,
+        "rpg": 3.4,
+        "apg": 0.4
+    },
+    {
+        "name": "Kobe Bufkin",
+        "team": "ATL",
+        "ppg": 5.3,
+        "rpg": 2.1,
+        "apg": 1.7
+    },
+    {
+        "name": "Vince Williams Jr.",
+        "team": "MEM",
+        "ppg": 5.3,
+        "rpg": 3.7,
+        "apg": 3.0
+    },
+    {
+        "name": "Paul Reed",
+        "team": "DET",
+        "ppg": 5.3,
+        "rpg": 2.5,
+        "apg": 1.1
+    },
+    {
+        "name": "Neemias Queta",
+        "team": "BOS",
+        "ppg": 5.3,
+        "rpg": 4.5,
+        "apg": 0.7
+    },
+    {
+        "name": "Matas Buzelis",
+        "team": "CHI",
+        "ppg": 5.2,
+        "rpg": 2.6,
+        "apg": 0.6
+    },
+    {
+        "name": "Monte Morris",
+        "team": "PHO",
+        "ppg": 5.2,
+        "rpg": 1.5,
+        "apg": 1.8
+    },
+    {
+        "name": "Jaylin Williams",
+        "team": "OKC",
+        "ppg": 5.0,
+        "rpg": 2.3,
+        "apg": 2.5
+    },
+    {
+        "name": "Precious Achiuwa",
+        "team": "NYK",
+        "ppg": 5.0,
+        "rpg": 7.0,
+        "apg": 1.4
+    },
+    {
+        "name": "Cam Christie",
+        "team": "LAC",
+        "ppg": 5.0,
+        "rpg": 3.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Alondes Williams",
+        "team": "DET",
+        "ppg": 5.0,
+        "rpg": 0.0,
+        "apg": 1.0
+    },
+    {
+        "name": "Jamal Shead",
+        "team": "TOR",
+        "ppg": 5.0,
+        "rpg": 1.2,
+        "apg": 3.3
+    },
+    {
+        "name": "Tidjane Salaun",
+        "team": "CHA",
+        "ppg": 5.0,
+        "rpg": 4.2,
+        "apg": 1.1
+    },
+    {
+        "name": "Kyle Anderson",
+        "team": "GOL",
+        "ppg": 5.0,
+        "rpg": 3.0,
+        "apg": 2.2
+    },
+    {
+        "name": "Eric Gordon",
+        "team": "PHI",
+        "ppg": 5.0,
+        "rpg": 0.9,
+        "apg": 1.3
+    },
+    {
+        "name": "Charles Bassey",
+        "team": "SAN",
+        "ppg": 4.9,
+        "rpg": 4.3,
+        "apg": 0.4
+    },
+    {
+        "name": "Marvin Bagley III",
+        "team": "WAS",
+        "ppg": 4.9,
+        "rpg": 2.9,
+        "apg": 0.4
+    },
+    {
+        "name": "Kevon Looney",
+        "team": "GOL",
+        "ppg": 4.9,
+        "rpg": 6.9,
+        "apg": 1.7
+    },
+    {
+        "name": "Ryan Rollins",
+        "team": "MIL",
+        "ppg": 4.8,
+        "rpg": 1.9,
+        "apg": 1.1
+    },
+    {
+        "name": "Drew Eubanks",
+        "team": "UTA",
+        "ppg": 4.8,
+        "rpg": 3.8,
+        "apg": 1.1
+    },
+    {
+        "name": "Pat Connaughton",
+        "team": "MIL",
+        "ppg": 4.8,
+        "rpg": 2.9,
+        "apg": 1.6
+    },
+    {
+        "name": "Julian Phillips",
+        "team": "CHI",
+        "ppg": 4.7,
+        "rpg": 2.1,
+        "apg": 0.5
+    },
+    {
+        "name": "Taylor Hendricks",
+        "team": "UTA",
+        "ppg": 4.7,
+        "rpg": 5.0,
+        "apg": 0.7
+    },
+    {
+        "name": "David Roddy",
+        "team": "ATL",
+        "ppg": 4.7,
+        "rpg": 2.5,
+        "apg": 1.1
+    },
+    {
+        "name": "Keaton Wallace",
+        "team": "ATL",
+        "ppg": 4.7,
+        "rpg": 1.4,
+        "apg": 1.9
+    },
+    {
+        "name": "Seth Curry",
+        "team": "CHA",
+        "ppg": 4.7,
+        "rpg": 1.4,
+        "apg": 0.4
+    },
+    {
+        "name": "Gary Payton II",
+        "team": "GOL",
+        "ppg": 4.6,
+        "rpg": 2.8,
+        "apg": 1.2
+    },
+    {
+        "name": "A.J. Lawson",
+        "team": "TOR",
+        "ppg": 4.5,
+        "rpg": 1.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Dariq Whitehead",
+        "team": "BRO",
+        "ppg": 4.5,
+        "rpg": 0.8,
+        "apg": 0.3
+    },
+    {
+        "name": "Wendell Moore Jr.",
+        "team": "DET",
+        "ppg": 4.5,
+        "rpg": 3.2,
+        "apg": 1.4
+    },
+    {
+        "name": "Luke Kornet",
+        "team": "BOS",
+        "ppg": 4.5,
+        "rpg": 5.1,
+        "apg": 1.5
+    },
+    {
+        "name": "Antonio Reeves",
+        "team": "NOR",
+        "ppg": 4.4,
+        "rpg": 1.1,
+        "apg": 0.6
+    },
+    {
+        "name": "Sandro Mamukelashvili",
+        "team": "SAN",
+        "ppg": 4.4,
+        "rpg": 2.8,
+        "apg": 0.4
+    },
+    {
+        "name": "Kyle Lowry",
+        "team": "PHI",
+        "ppg": 4.4,
+        "rpg": 1.9,
+        "apg": 2.9
+    },
+    {
+        "name": "Jamal Cain",
+        "team": "NOR",
+        "ppg": 4.3,
+        "rpg": 2.8,
+        "apg": 0.6
+    },
+    {
+        "name": "Gabe Vincent",
+        "team": "LAL",
+        "ppg": 4.3,
+        "rpg": 1.3,
+        "apg": 0.9
+    },
+    {
+        "name": "Dalen Terry",
+        "team": "CHI",
+        "ppg": 4.1,
+        "rpg": 1.5,
+        "apg": 1.0
+    },
+    {
+        "name": "Thomas Bryant",
+        "team": "MIA",
+        "ppg": 4.1,
+        "rpg": 3.2,
+        "apg": 0.4
+    },
+    {
+        "name": "Gary Harris",
+        "team": "ORL",
+        "ppg": 4.1,
+        "rpg": 1.2,
+        "apg": 0.5
+    },
+    {
+        "name": "Micah Potter",
+        "team": "UTA",
+        "ppg": 4.0,
+        "rpg": 5.1,
+        "apg": 1.3
+    },
+    {
+        "name": "Cam Spencer",
+        "team": "MEM",
+        "ppg": 4.0,
+        "rpg": 1.7,
+        "apg": 1.6
+    },
+    {
+        "name": "Josh Richardson",
+        "team": "MIA",
+        "ppg": 4.0,
+        "rpg": 1.5,
+        "apg": 1.5
+    },
+    {
+        "name": "Kris Murray",
+        "team": "POR",
+        "ppg": 4.0,
+        "rpg": 2.1,
+        "apg": 0.7
+    },
+    {
+        "name": "Blake Wesley",
+        "team": "SAN",
+        "ppg": 4.0,
+        "rpg": 0.9,
+        "apg": 1.9
+    },
+    {
+        "name": "Mason Plumlee",
+        "team": "PHO",
+        "ppg": 4.0,
+        "rpg": 6.1,
+        "apg": 1.8
+    },
+    {
+        "name": "Reggie Jackson",
+        "team": "PHI",
+        "ppg": 4.0,
+        "rpg": 1.2,
+        "apg": 1.8
+    },
+    {
+        "name": "KJ Simpson",
+        "team": "CHA",
+        "ppg": 3.9,
+        "rpg": 1.7,
+        "apg": 2.0
+    },
+    {
+        "name": "Luka Garza",
+        "team": "MIN",
+        "ppg": 3.9,
+        "rpg": 1.2,
+        "apg": 0.1
+    },
+    {
+        "name": "Oso Ighodaro",
+        "team": "PHO",
+        "ppg": 3.9,
+        "rpg": 3.8,
+        "apg": 0.9
+    },
+    {
+        "name": "Aaron Holiday",
+        "team": "HOU",
+        "ppg": 3.9,
+        "rpg": 0.9,
+        "apg": 1.2
+    },
+    {
+        "name": "Doug McDermott",
+        "team": "SAC",
+        "ppg": 3.9,
+        "rpg": 0.7,
+        "apg": 0.1
+    },
+    {
+        "name": "Mo Bamba",
+        "team": "LAC",
+        "ppg": 3.8,
+        "rpg": 3.8,
+        "apg": 0.7
+    },
+    {
+        "name": "Cam Reddish",
+        "team": "LAL",
+        "ppg": 3.8,
+        "rpg": 2.0,
+        "apg": 0.9
+    },
+    {
+        "name": "Isaac Jones",
+        "team": "SAC",
+        "ppg": 3.8,
+        "rpg": 1.6,
+        "apg": 0.2
+    },
+    {
+        "name": "Jett Howard",
+        "team": "ORL",
+        "ppg": 3.8,
+        "rpg": 1.1,
+        "apg": 0.5
+    },
+    {
+        "name": "Daniel Theis",
+        "team": "NOR",
+        "ppg": 3.8,
+        "rpg": 3.8,
+        "apg": 1.5
+    },
+    {
+        "name": "Rob Dillingham",
+        "team": "MIN",
+        "ppg": 3.7,
+        "rpg": 0.7,
+        "apg": 1.7
+    },
+    {
+        "name": "Nicolas Batum",
+        "team": "LAC",
+        "ppg": 3.7,
+        "rpg": 2.8,
+        "apg": 1.6
+    },
+    {
+        "name": "Kel'el Ware",
+        "team": "MIA",
+        "ppg": 3.6,
+        "rpg": 2.5,
+        "apg": 0.3
+    },
+    {
+        "name": "Andre Jackson Jr.",
+        "team": "MIL",
+        "ppg": 3.6,
+        "rpg": 3.2,
+        "apg": 1.5
+    },
+    {
+        "name": "Moussa Diabate",
+        "team": "CHA",
+        "ppg": 3.6,
+        "rpg": 7.0,
+        "apg": 0.7
+    },
+    {
+        "name": "Tre Jones",
+        "team": "SAN",
+        "ppg": 3.6,
+        "rpg": 2.0,
+        "apg": 3.9
+    },
+    {
+        "name": "Bruno Fernando",
+        "team": "TOR",
+        "ppg": 3.6,
+        "rpg": 3.1,
+        "apg": 1.1
+    },
+    {
+        "name": "Patty Mills",
+        "team": "UTA",
+        "ppg": 3.6,
+        "rpg": 0.9,
+        "apg": 1.4
+    },
+    {
+        "name": "Jabari Walker",
+        "team": "POR",
+        "ppg": 3.5,
+        "rpg": 3.1,
+        "apg": 0.6
+    },
+    {
+        "name": "Jae'Sean Tate",
+        "team": "HOU",
+        "ppg": 3.5,
+        "rpg": 2.2,
+        "apg": 0.7
+    },
+    {
+        "name": "Jevon Carter",
+        "team": "CHI",
+        "ppg": 3.5,
+        "rpg": 0.9,
+        "apg": 0.9
+    },
+    {
+        "name": "Reed Sheppard",
+        "team": "HOU",
+        "ppg": 3.4,
+        "rpg": 1.3,
+        "apg": 1.2
+    },
+    {
+        "name": "Johnny Davis",
+        "team": "WAS",
+        "ppg": 3.4,
+        "rpg": 1.6,
+        "apg": 0.5
+    },
+    {
+        "name": "Dario Saric",
+        "team": "DEN",
+        "ppg": 3.4,
+        "rpg": 3.5,
+        "apg": 1.1
+    },
+    {
+        "name": "Jae Crowder",
+        "team": "SAC",
+        "ppg": 3.3,
+        "rpg": 2.8,
+        "apg": 0.7
+    },
+    {
+        "name": "Bol Bol",
+        "team": "PHO",
+        "ppg": 3.3,
+        "rpg": 1.6,
+        "apg": 0.1
+    },
+    {
+        "name": "Cody Williams",
+        "team": "UTA",
+        "ppg": 3.3,
+        "rpg": 2.4,
+        "apg": 1.2
+    },
+    {
+        "name": "Rayan Rupert",
+        "team": "POR",
+        "ppg": 3.3,
+        "rpg": 1.5,
+        "apg": 0.5
+    },
+    {
+        "name": "Moses Brown",
+        "team": "IND",
+        "ppg": 3.2,
+        "rpg": 1.4,
+        "apg": 0.0
+    },
+    {
+        "name": "Nick Smith Jr.",
+        "team": "CHA",
+        "ppg": 3.1,
+        "rpg": 0.8,
+        "apg": 0.7
+    },
+    {
+        "name": "Jock Landale",
+        "team": "HOU",
+        "ppg": 3.1,
+        "rpg": 2.7,
+        "apg": 0.8
+    },
+    {
+        "name": "Landry Shamet",
+        "team": "NYK",
+        "ppg": 3.0,
+        "rpg": 0.3,
+        "apg": 0.3
+    },
+    {
+        "name": "Quincy Olivari",
+        "team": "LAL",
+        "ppg": 3.0,
+        "rpg": 0.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Oscar Tshiebwe",
+        "team": "UTA",
+        "ppg": 3.0,
+        "rpg": 9.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Taze Moore",
+        "team": "POR",
+        "ppg": 3.0,
+        "rpg": 4.0,
+        "apg": 0.5
+    },
+    {
+        "name": "Isaiah Collier",
+        "team": "UTA",
+        "ppg": 3.0,
+        "rpg": 2.1,
+        "apg": 3.4
+    },
+    {
+        "name": "David Duke Jr.",
+        "team": "SAN",
+        "ppg": 3.0,
+        "rpg": 0.0,
+        "apg": 2.0
+    },
+    {
+        "name": "DeAndre Jordan",
+        "team": "DEN",
+        "ppg": 3.0,
+        "rpg": 4.0,
+        "apg": 0.8
+    },
+    {
+        "name": "Richaun Holmes",
+        "team": "WAS",
+        "ppg": 3.0,
+        "rpg": 1.8,
+        "apg": 0.0
+    },
+    {
+        "name": "Josh Minott",
+        "team": "MIN",
+        "ppg": 3.0,
+        "rpg": 1.4,
+        "apg": 0.6
+    },
+    {
+        "name": "Hunter Tyson",
+        "team": "DEN",
+        "ppg": 3.0,
+        "rpg": 2.0,
+        "apg": 0.6
+    },
+    {
+        "name": "Collin Gillespie",
+        "team": "PHO",
+        "ppg": 3.0,
+        "rpg": 0.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Vit Krejci",
+        "team": "ATL",
+        "ppg": 3.0,
+        "rpg": 1.9,
+        "apg": 1.9
+    },
+    {
+        "name": "Kobe Brown",
+        "team": "LAC",
+        "ppg": 2.9,
+        "rpg": 2.3,
+        "apg": 0.6
+    },
+    {
+        "name": "Johnny Furphy",
+        "team": "IND",
+        "ppg": 2.9,
+        "rpg": 1.5,
+        "apg": 0.5
+    },
+    {
+        "name": "Ousmane Dieng",
+        "team": "OKC",
+        "ppg": 2.9,
+        "rpg": 2.5,
+        "apg": 0.7
+    },
+    {
+        "name": "Drew Peterson",
+        "team": "BOS",
+        "ppg": 2.8,
+        "rpg": 2.0,
+        "apg": 0.6
+    },
+    {
+        "name": "Jeff Dowtin Jr.",
+        "team": "PHI",
+        "ppg": 2.8,
+        "rpg": 0.9,
+        "apg": 1.1
+    },
+    {
+        "name": "John Konchar",
+        "team": "MEM",
+        "ppg": 2.8,
+        "rpg": 3.5,
+        "apg": 1.1
+    },
+    {
+        "name": "Damion Lee",
+        "team": "PHO",
+        "ppg": 2.8,
+        "rpg": 0.8,
+        "apg": 0.8
+    },
+    {
+        "name": "Delon Wright",
+        "team": "MIL",
+        "ppg": 2.8,
+        "rpg": 1.9,
+        "apg": 1.9
+    },
+    {
+        "name": "TyTy Washington Jr.",
+        "team": "PHO",
+        "ppg": 2.7,
+        "rpg": 0.3,
+        "apg": 1.3
+    },
+    {
+        "name": "Jalen Pickett",
+        "team": "DEN",
+        "ppg": 2.7,
+        "rpg": 1.1,
+        "apg": 2.4
+    },
+    {
+        "name": "Jeff Green",
+        "team": "HOU",
+        "ppg": 2.6,
+        "rpg": 0.8,
+        "apg": 0.1
+    },
+    {
+        "name": "Taj Gibson",
+        "team": "CHA",
+        "ppg": 2.6,
+        "rpg": 3.2,
+        "apg": 0.5
+    },
+    {
+        "name": "Tyler Kolek",
+        "team": "NYK",
+        "ppg": 2.6,
+        "rpg": 0.7,
+        "apg": 0.6
+    },
+    {
+        "name": "Craig Porter",
+        "team": "CLE",
+        "ppg": 2.6,
+        "rpg": 0.9,
+        "apg": 1.3
+    },
+    {
+        "name": "E.J. Liddell",
+        "team": "CHI",
+        "ppg": 2.5,
+        "rpg": 0.8,
+        "apg": 0.5
+    },
+    {
+        "name": "Steven Adams",
+        "team": "HOU",
+        "ppg": 2.5,
+        "rpg": 3.9,
+        "apg": 1.2
+    },
+    {
+        "name": "Tristan Thompson",
+        "team": "CLE",
+        "ppg": 2.5,
+        "rpg": 2.7,
+        "apg": 0.3
+    },
+    {
+        "name": "Trey Jemison",
+        "team": "NOR",
+        "ppg": 2.4,
+        "rpg": 2.8,
+        "apg": 0.6
+    },
+    {
+        "name": "Chris Duarte",
+        "team": "CHI",
+        "ppg": 2.4,
+        "rpg": 1.2,
+        "apg": 0.4
+    },
+    {
+        "name": "Anthony Gill",
+        "team": "WAS",
+        "ppg": 2.4,
+        "rpg": 1.3,
+        "apg": 0.3
+    },
+    {
+        "name": "Maxi Kleber",
+        "team": "DAL",
+        "ppg": 2.4,
+        "rpg": 3.2,
+        "apg": 0.9
+    },
+    {
+        "name": "Jaylon Tyson",
+        "team": "CLE",
+        "ppg": 2.3,
+        "rpg": 1.6,
+        "apg": 0.7
+    },
+    {
+        "name": "Nate Williams",
+        "team": "HOU",
+        "ppg": 2.3,
+        "rpg": 1.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Lester Quinones",
+        "team": "PHI",
+        "ppg": 2.3,
+        "rpg": 1.0,
+        "apg": 0.3
+    },
+    {
+        "name": "Vlatko Cancar",
+        "team": "DEN",
+        "ppg": 2.3,
+        "rpg": 2.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Olivier-Maxence Prosper",
+        "team": "DAL",
+        "ppg": 2.2,
+        "rpg": 1.8,
+        "apg": 0.4
+    },
+    {
+        "name": "Jordan McLaughlin",
+        "team": "SAC",
+        "ppg": 2.2,
+        "rpg": 0.9,
+        "apg": 0.9
+    },
+    {
+        "name": "Duop Reath",
+        "team": "POR",
+        "ppg": 2.1,
+        "rpg": 0.9,
+        "apg": 0.3
+    },
+    {
+        "name": "Dillon Jones",
+        "team": "OKC",
+        "ppg": 2.1,
+        "rpg": 1.8,
+        "apg": 0.7
+    },
+    {
+        "name": "Patrick Baldwin Jr.",
+        "team": "WAS",
+        "ppg": 2.1,
+        "rpg": 0.9,
+        "apg": 0.1
+    },
+    {
+        "name": "Leonard Miller",
+        "team": "MIN",
+        "ppg": 2.0,
+        "rpg": 0.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Bryce McGowens",
+        "team": "POR",
+        "ppg": 2.0,
+        "rpg": 0.0,
+        "apg": 1.0
+    },
+    {
+        "name": "Justin Edwards",
+        "team": "PHI",
+        "ppg": 2.0,
+        "rpg": 1.0,
+        "apg": 0.5
+    },
+    {
+        "name": "Orlando Robinson",
+        "team": "SAC",
+        "ppg": 2.0,
+        "rpg": 1.5,
+        "apg": 1.1
+    },
+    {
+        "name": "Jalen Hood-Schifino",
+        "team": "LAL",
+        "ppg": 2.0,
+        "rpg": 0.5,
+        "apg": 0.5
+    },
+    {
+        "name": "Adama Sanogo",
+        "team": "CHI",
+        "ppg": 2.0,
+        "rpg": 1.5,
+        "apg": 0.3
+    },
+    {
+        "name": "Alex Reese",
+        "team": "OKC",
+        "ppg": 2.0,
+        "rpg": 1.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Tyler Smith",
+        "team": "MIL",
+        "ppg": 2.0,
+        "rpg": 0.9,
+        "apg": 0.1
+    },
+    {
+        "name": "Kai Jones",
+        "team": "LAC",
+        "ppg": 2.0,
+        "rpg": 1.7,
+        "apg": 0.4
+    },
+    {
+        "name": "Christian Koloko",
+        "team": "LAL",
+        "ppg": 1.9,
+        "rpg": 2.3,
+        "apg": 0.2
+    },
+    {
+        "name": "MarJon Beauchamp",
+        "team": "MIL",
+        "ppg": 1.9,
+        "rpg": 0.9,
+        "apg": 0.1
+    },
+    {
+        "name": "Jericho Sims",
+        "team": "NYK",
+        "ppg": 1.8,
+        "rpg": 3.6,
+        "apg": 0.6
+    },
+    {
+        "name": "Ariel Hukporti",
+        "team": "NYK",
+        "ppg": 1.8,
+        "rpg": 1.8,
+        "apg": 0.5
+    },
+    {
+        "name": "Matt Ryan",
+        "team": "NYK",
+        "ppg": 1.7,
+        "rpg": 0.2,
+        "apg": 0.0
+    },
+    {
+        "name": "Caleb Houstan",
+        "team": "ORL",
+        "ppg": 1.7,
+        "rpg": 0.4,
+        "apg": 0.2
+    },
+    {
+        "name": "Dwight Powell",
+        "team": "DAL",
+        "ppg": 1.7,
+        "rpg": 1.6,
+        "apg": 0.7
+    },
+    {
+        "name": "Yuki Kawamura",
+        "team": "MEM",
+        "ppg": 1.6,
+        "rpg": 0.3,
+        "apg": 0.7
+    },
+    {
+        "name": "Pacome Dadiet",
+        "team": "NYK",
+        "ppg": 1.6,
+        "rpg": 1.1,
+        "apg": 0.4
+    },
+    {
+        "name": "Adem Bona",
+        "team": "PHI",
+        "ppg": 1.6,
+        "rpg": 1.8,
+        "apg": 0.1
+    },
+    {
+        "name": "Pat Spencer",
+        "team": "GOL",
+        "ppg": 1.6,
+        "rpg": 0.8,
+        "apg": 1.3
+    },
+    {
+        "name": "Cory Joseph",
+        "team": "ORL",
+        "ppg": 1.6,
+        "rpg": 1.0,
+        "apg": 0.7
+    },
+    {
+        "name": "James Johnson",
+        "team": "IND",
+        "ppg": 1.6,
+        "rpg": 0.8,
+        "apg": 0.6
+    },
+    {
+        "name": "Armel Traore",
+        "team": "LAL",
+        "ppg": 1.5,
+        "rpg": 1.8,
+        "apg": 0.1
+    },
+    {
+        "name": "Terrence Shannon Jr.",
+        "team": "MIN",
+        "ppg": 1.5,
+        "rpg": 0.2,
+        "apg": 0.5
+    },
+    {
+        "name": "Enrique Freeman",
+        "team": "IND",
+        "ppg": 1.5,
+        "rpg": 0.8,
+        "apg": 0.4
+    },
+    {
+        "name": "Jordan Walsh",
+        "team": "BOS",
+        "ppg": 1.5,
+        "rpg": 1.3,
+        "apg": 0.3
+    },
+    {
+        "name": "Alex Len",
+        "team": "SAC",
+        "ppg": 1.5,
+        "rpg": 1.7,
+        "apg": 0.9
+    },
+    {
+        "name": "Colin Castleton",
+        "team": "MEM",
+        "ppg": 1.4,
+        "rpg": 0.9,
+        "apg": 0.0
+    },
+    {
+        "name": "AJ Johnson",
+        "team": "MIL",
+        "ppg": 1.4,
+        "rpg": 0.4,
+        "apg": 0.2
+    },
+    {
+        "name": "Adam Flagler",
+        "team": "OKC",
+        "ppg": 1.4,
+        "rpg": 0.5,
+        "apg": 0.0
+    },
+    {
+        "name": "Markieff Morris",
+        "team": "DAL",
+        "ppg": 1.3,
+        "rpg": 1.3,
+        "apg": 0.5
+    },
+    {
+        "name": "Jack McVeigh",
+        "team": "HOU",
+        "ppg": 1.3,
+        "rpg": 0.7,
+        "apg": 0.2
+    },
+    {
+        "name": "Luke Travers",
+        "team": "CLE",
+        "ppg": 1.3,
+        "rpg": 1.0,
+        "apg": 0.8
+    },
+    {
+        "name": "Jazian Gortman",
+        "team": "DAL",
+        "ppg": 1.3,
+        "rpg": 0.3,
+        "apg": 0.3
+    },
+    {
+        "name": "Jaden Springer",
+        "team": "BOS",
+        "ppg": 1.3,
+        "rpg": 1.2,
+        "apg": 0.3
+    },
+    {
+        "name": "JD Davison",
+        "team": "BOS",
+        "ppg": 1.2,
+        "rpg": 0.4,
+        "apg": 0.2
+    },
+    {
+        "name": "Brandon Williams",
+        "team": "DAL",
+        "ppg": 1.2,
+        "rpg": 0.8,
+        "apg": 0.4
+    },
+    {
+        "name": "Xavier Tillman",
+        "team": "BOS",
+        "ppg": 1.2,
+        "rpg": 1.7,
+        "apg": 0.3
+    },
+    {
+        "name": "Zeke Nnaji",
+        "team": "DEN",
+        "ppg": 1.2,
+        "rpg": 0.4,
+        "apg": 0.2
+    },
+    {
+        "name": "Sidy Cissoko",
+        "team": "SAN",
+        "ppg": 1.1,
+        "rpg": 0.7,
+        "apg": 0.4
+    },
+    {
+        "name": "Colby Jones",
+        "team": "SAC",
+        "ppg": 1.1,
+        "rpg": 1.0,
+        "apg": 0.2
+    },
+    {
+        "name": "Jared Rhoden",
+        "team": "CHA",
+        "ppg": 1.0,
+        "rpg": 1.0,
+        "apg": 0.5
+    },
+    {
+        "name": "Dominick Barlow",
+        "team": "ATL",
+        "ppg": 1.0,
+        "rpg": 0.3,
+        "apg": 0.0
+    },
+    {
+        "name": "Jaylen Martin",
+        "team": "BRO",
+        "ppg": 1.0,
+        "rpg": 0.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Reece Beekman",
+        "team": "GOL",
+        "ppg": 1.0,
+        "rpg": 0.5,
+        "apg": 0.5
+    },
+    {
+        "name": "Mouhamed Gueye",
+        "team": "ATL",
+        "ppg": 1.0,
+        "rpg": 1.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Trey Alexander",
+        "team": "DEN",
+        "ppg": 0.9,
+        "rpg": 0.1,
+        "apg": 0.3
+    },
+    {
+        "name": "PJ Dozier",
+        "team": "MIN",
+        "ppg": 0.8,
+        "rpg": 0.6,
+        "apg": 0.6
+    },
+    {
+        "name": "Karlo Matkovic",
+        "team": "NOR",
+        "ppg": 0.8,
+        "rpg": 2.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Baylor Scheierman",
+        "team": "BOS",
+        "ppg": 0.8,
+        "rpg": 1.4,
+        "apg": 0.4
+    },
+    {
+        "name": "D.J. Carton",
+        "team": "TOR",
+        "ppg": 0.8,
+        "rpg": 1.0,
+        "apg": 0.8
+    },
+    {
+        "name": "Gui Santos",
+        "team": "GOL",
+        "ppg": 0.8,
+        "rpg": 1.0,
+        "apg": 0.4
+    },
+    {
+        "name": "Keshad Johnson",
+        "team": "MIA",
+        "ppg": 0.7,
+        "rpg": 1.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Branden Carlson",
+        "team": "OKC",
+        "ppg": 0.7,
+        "rpg": 1.5,
+        "apg": 0.3
+    },
+    {
+        "name": "PJ Hall",
+        "team": "DEN",
+        "ppg": 0.7,
+        "rpg": 0.5,
+        "apg": 0.0
+    },
+    {
+        "name": "Chris Livingston",
+        "team": "MIL",
+        "ppg": 0.7,
+        "rpg": 0.7,
+        "apg": 0.3
+    },
+    {
+        "name": "Liam Robbins",
+        "team": "MIL",
+        "ppg": 0.7,
+        "rpg": 1.0,
+        "apg": 0.1
+    },
+    {
+        "name": "Ulrich Chomche",
+        "team": "TOR",
+        "ppg": 0.7,
+        "rpg": 1.3,
+        "apg": 0.3
+    },
+    {
+        "name": "Tristen Newton",
+        "team": "IND",
+        "ppg": 0.6,
+        "rpg": 0.0,
+        "apg": 0.2
+    },
+    {
+        "name": "Maxwell Lewis",
+        "team": "LAL",
+        "ppg": 0.6,
+        "rpg": 0.3,
+        "apg": 0.3
+    },
+    {
+        "name": "Cui Yongxi",
+        "team": "BRO",
+        "ppg": 0.6,
+        "rpg": 0.4,
+        "apg": 0.0
+    },
+    {
+        "name": "Bronny James",
+        "team": "LAL",
+        "ppg": 0.6,
+        "rpg": 0.1,
+        "apg": 0.3
+    },
+    {
+        "name": "Garrett Temple",
+        "team": "TOR",
+        "ppg": 0.5,
+        "rpg": 0.8,
+        "apg": 0.6
+    },
+    {
+        "name": "Stanley Umude",
+        "team": "MIL",
+        "ppg": 0.4,
+        "rpg": 0.8,
+        "apg": 0.3
+    },
+    {
+        "name": "Daishen Nix",
+        "team": "MIN",
+        "ppg": 0.3,
+        "rpg": 1.3,
+        "apg": 1.0
+    },
+    {
+        "name": "Jalen Bridges",
+        "team": "PHO",
+        "ppg": 0.3,
+        "rpg": 0.8,
+        "apg": 0.0
+    },
+    {
+        "name": "Malevy Leons",
+        "team": "OKC",
+        "ppg": 0.3,
+        "rpg": 0.5,
+        "apg": 0.2
+    },
+    {
+        "name": "Jacob Toppin",
+        "team": "NYK",
+        "ppg": 0.3,
+        "rpg": 0.4,
+        "apg": 0.3
+    },
+    {
+        "name": "Quinten Post",
+        "team": "GOL",
+        "ppg": 0.0,
+        "rpg": 0.0,
+        "apg": 1.0
+    },
+    {
+        "name": "Tristan Vukcevic",
+        "team": "WAS",
+        "ppg": 0.0,
+        "rpg": 0.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Josh Christopher",
+        "team": "MIA",
+        "ppg": 0.0,
+        "rpg": 0.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Reece Beekman",
+        "team": "BRO",
+        "ppg": 0.0,
+        "rpg": 0.0,
+        "apg": 0.3
+    },
+    {
+        "name": "Isaiah Crawford",
+        "team": "SAC",
+        "ppg": 0.0,
+        "rpg": 1.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Justin Minaya",
+        "team": "POR",
+        "ppg": 0.0,
+        "rpg": 1.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Cole Swider",
+        "team": "DET",
+        "ppg": 0.0,
+        "rpg": 1.0,
+        "apg": 0.5
+    },
+    {
+        "name": "Mason Jones",
+        "team": "SAC",
+        "ppg": 0.0,
+        "rpg": 1.3,
+        "apg": 2.3
+    },
+    {
+        "name": "Harrison Ingram",
+        "team": "SAN",
+        "ppg": 0.0,
+        "rpg": 1.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Riley Minix",
+        "team": "SAN",
+        "ppg": 0.0,
+        "rpg": 2.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Spencer Jones",
+        "team": "DEN",
+        "ppg": 0.0,
+        "rpg": 0.8,
+        "apg": 0.0
+    },
+    {
+        "name": "Alex Ducas",
+        "team": "OKC",
+        "ppg": 0.0,
+        "rpg": 0.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Daniss Jenkins",
+        "team": "DET",
+        "ppg": 0.0,
+        "rpg": 0.0,
+        "apg": 0.0
+    },
+    {
+        "name": "Mac McClung",
+        "team": "ORL",
+        "ppg": 0.0,
+        "rpg": 1.0,
+        "apg": 2.0
+    },
+    {
+        "name": "Kessler Edwards",
+        "team": "DAL",
+        "ppg": 0.0,
+        "rpg": 0.2,
+        "apg": 0.1
+    },
+    {
+        "name": "Joe Ingles",
+        "team": "MIN",
+        "ppg": 0.0,
+        "rpg": 0.3,
+        "apg": 1.3
+    }
+]
