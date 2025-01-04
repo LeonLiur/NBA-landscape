@@ -2,6 +2,9 @@ import express, { Request, Response } from 'express';
 import { readFileSync } from 'fs';
 import path from 'path';
 const cors = require('cors');
+import dotenv from 'dotenv';
+
+dotenv.config();
 
 interface NBAPlayer {
     name: string;
@@ -11,7 +14,7 @@ interface NBAPlayer {
   }
 
 const app = express();
-const port = 3000;
+const port = Number(process.env.PORT) || 3000;
 
 // Middleware to parse JSON
 app.use(express.json());
@@ -53,6 +56,6 @@ app.get('/api/random-players', (req: RandomPlayerRequest, res: Response) => {
   });
 
 // Start the server
-app.listen(port, () => {
+app.listen(port, '0.0.0.0', () => {
   console.log(`Server is running at http://localhost:${port}`);
 });
