@@ -14,6 +14,7 @@ function Game() {
   // Number of players
   const N = 20;
   useEffect(() => {
+    console.log(import.meta.env.VITE_BACKEND_URL)
     fetch(`${import.meta.env.VITE_BACKEND_URL}/api/random-players?n=${N}`)
       .then((res) => res.json())
       .then((data) => {
