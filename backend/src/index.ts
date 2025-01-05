@@ -1,17 +1,17 @@
-import express, { Request, Response } from 'express';
-import { readFileSync } from 'fs';
-import path from 'path';
-const cors = require('cors');
-import dotenv from 'dotenv';
+import express, { Request, Response } from "express";
+import { readFileSync } from "fs";
+import path from "path";
+const cors = require("cors");
+import dotenv from "dotenv";
 
 dotenv.config();
 
 interface NBAPlayer {
-    name: string;
-    ppg: number;
-    rpg: number;
-    apg: number;
-  }
+  name: string;
+  ppg: number;
+  rpg: number;
+  apg: number;
+}
 
 const app = express();
 const port = Number(process.env.PORT) || 3000;
@@ -22,40 +22,45 @@ app.use(cors());
 
 // Read and parse JSON file
 const playersData: NBAPlayer[] = JSON.parse(
-    readFileSync(path.join(__dirname, '../static/NBA2025Players.json'), 'utf-8')
-  );
-  
-  // Fisher-Yates shuffle function
-  const shuffleArray = (array: NBAPlayer[]) => {
-    for (let i = array.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [array[i], array[j]] = [array[j], array[i]];
-    }
-    return array;
-  };
+  readFileSync(path.join(__dirname, "../static/NBA2025Players.json"), "utf-8")
+);
+
+// Fisher-Yates shuffle function
+const shuffleArray = (array: NBAPlayer[]) => {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+};
 
 // Routes
-app.get('/', (_: Request, res: Response) => {
-  res.json({name: 'NBALandscape backend', roulette: Math.floor(Math.random() * 6) + 1});
+app.get("/", (_: Request, res: Response) => {
+  res.json({
+    name: "NBALandscape backend",
+    roulette: Math.floor(Math.random() * 6) + 1,
+  });
 });
 
-
 interface RandomPlayerRequest extends Request {
-    query: {
-        n?: string;
-    }
+  query: {
+    n?: string;
+  };
 }
 
 // Random players route
-app.get('/api/random-players', (req: RandomPlayerRequest, res: Response) => {
-    const shuffledPlayers = shuffleArray([...playersData]);
-    const sampleSize = Math.min(Number(req.query.n) ?? 50, shuffledPlayers.length);
-    const result = shuffledPlayers.slice(0, sampleSize);
+app.get("/api/random-players", (req: RandomPlayerRequest, res: Response) => {
+  const shuffledPlayers = shuffleArray([...playersData]);
+  const sampleSize = Math.min(
+    Number(req.query.n) ?? 50,
+    shuffledPlayers.length
+  );
+  const result = shuffledPlayers.slice(0, sampleSize);
 
-    res.json(result);
-  });
+  res.json(result);
+});
 
 // Start the server
-app.listen(port, '0.0.0.0', () => {
+app.listen(port, "0.0.0.0", () => {
   console.log(`Server is running at http://localhost:${port}`);
 });
